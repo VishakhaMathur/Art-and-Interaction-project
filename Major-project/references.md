@@ -1,0 +1,29 @@
+# References
+- [1] Vishakha Mathur. 2024. astronaut.png. Created from MSPaint. 
+- [2] Stars twinkling. 2024. https://editor.p5js.org/wvnl/sketches/5wnuHAXKd
+- [3] asteroid.png. 2024. https://unsplash.com/photos/floating-rock-on-galaxy-illustration-KFCPopx2icU
+- [4] rock.png. 2024. https://unsplash.com/photos/a-large-rock-in-the-middle-of-a-space-filled-with-stars-gyxz70oXgzI
+- [5] sky.jpg. 2024. https://unsplash.com/photos/the-night-sky-is-filled-with-stars-and-clouds-DYnkupzX228.
+- [6] Vishakha Mathur. 2024. alien.png. Create from MSPaint.
+- [7] shootingStar.png. 2020. https://unsplash.com/photos/a-comet-is-shown-in-the-dark-sky-3vV4qfAcol8
+- [8] Craig Smith. 2023. alien_cheering.wav. https://freesound.org/people/craigsmith/sounds/675801/
+- [9] XPoki. 2018. alien_cry.wav. https://freesound.org/people/xpoki/sounds/432735/
+- [10] MATRIX_. 2019. firing.wav https://freesound.org/people/MATRIXXX_/sounds/458906/
+- [11] Velcronator. 2024. https://freesound.org/people/velcronator/sounds/733136/
+- [12] Dersuperanton. 2018. happy.mp3. https://freesound.org/people/dersuperanton/sounds/437660/.
+- [13] Waterboy. 2008. rocket_sound.mp3. https://freesound.org/people/waterboy920/sounds/63218/ .
+- [14] Josefpres. 2022. calm.mp3. https://freesound.org/people/josefpres/sounds/655403/.
+- [15] Vishakha Mather. 2024. earth.png. Created from MSPaint.
+- [16] Velcronator. 2024. hittingrock.wav. https://freesound.org/people/velcronator/sounds/733137/.
+- [17] Newagesoup. 2016. monster_laugh.wav. https://freesound.org/people/newagesoup/sounds/337164/.
+- [18] Lamat. 2012. om_chanting.mp3. https://freesound.org/people/Lamat/sounds/145785/.
+- [19] Melokacool. 2022. rocket_alarm.mp3. https://freesound.org/people/melokacool/sounds/613652/.
+- [20] Tonsil5. 2018. scared.wav. https://freesound.org/people/tonsil5/sounds/416541/.
+- [21] Martian. 2020. screaming.mp3. https://freesound.org/people/martian/sounds/530471/.
+- [22] Jeorge droide sketches. Galaxy. https://editor.p5js.org/jorge_droide/sketches/-q0zCTeHC.
+- [23] Constructors, Display. Azimovbob sketches. https://editor.p5js.org/azimovbob/sketches/663v9XPJ.
+- [24] Vishakha Mathur. 2024. Monster(modified). Comp1720 Assignment 1.
+- [25] David Shiffman. natureofcode.com. https://natureofcode.com.
+- [26] Github. Benjamin-0-Dover Minecraft. https://github.com/Benjamin-0-Dover/Minecraft/blob/master/index.html 
+- [27] Senkić, Ivana. 2018. Master's thesis. https://repozitorij.unizg.hr/islandora/object/pmf%3A6049/datastream/PDF/view?cv=1.
+
